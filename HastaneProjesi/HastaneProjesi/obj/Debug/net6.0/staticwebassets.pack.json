@@ -1,0 +1,1141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\buttons.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\buttons.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\common.scss",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\common.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\css\\mixins.scss",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\css\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.flash.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.flash.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.print.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\buttons.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\buttons.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\Buttons-1.6.5\\swf\\flashExport.swf",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-1.6.5\\swf\\flashExport.swf"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\DataTables-1.10.22\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.10.22\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\JSZip-2.5.0\\jszip.js",
+      "PackagePath": "staticwebassets\\DataTables\\JSZip-2.5.0\\jszip.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\JSZip-2.5.0\\jszip.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\JSZip-2.5.0\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\pdfmake-0.1.36\\pdfmake.js",
+      "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.1.36\\pdfmake.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\pdfmake-0.1.36\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.1.36\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\DataTables\\pdfmake-0.1.36\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.1.36\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\res1.png",
+      "PackagePath": "staticwebassets\\Resimler\\res1.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\res2.png",
+      "PackagePath": "staticwebassets\\Resimler\\res2.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\res4.png",
+      "PackagePath": "staticwebassets\\Resimler\\res4.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\yeni1.png",
+      "PackagePath": "staticwebassets\\Resimler\\yeni1.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\yeni2.png",
+      "PackagePath": "staticwebassets\\Resimler\\yeni2.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\yeni3.png",
+      "PackagePath": "staticwebassets\\Resimler\\yeni3.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\yeni4.png",
+      "PackagePath": "staticwebassets\\Resimler\\yeni4.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\yeni5.png",
+      "PackagePath": "staticwebassets\\Resimler\\yeni5.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\yeni6.png",
+      "PackagePath": "staticwebassets\\Resimler\\yeni6.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\yeni7.png",
+      "PackagePath": "staticwebassets\\Resimler\\yeni7.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\yeni8.png",
+      "PackagePath": "staticwebassets\\Resimler\\yeni8.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\Resimler\\yeni9.png",
+      "PackagePath": "staticwebassets\\Resimler\\yeni9.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\.editorconfig",
+      "PackagePath": "staticwebassets\\anasa\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\.gitignore",
+      "PackagePath": "staticwebassets\\anasa\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\.travis.yml",
+      "PackagePath": "staticwebassets\\anasa\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\LICENSE",
+      "PackagePath": "staticwebassets\\anasa"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\README.md",
+      "PackagePath": "staticwebassets\\anasa\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\img\\avataaars.svg",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\img\\avataaars.svg"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\img\\portfolio\\cabin.png",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\img\\portfolio\\cabin.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\img\\portfolio\\cake.png",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\img\\portfolio\\cake.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\img\\portfolio\\circus.png",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\img\\portfolio\\circus.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\img\\portfolio\\game.png",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\img\\portfolio\\game.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\img\\portfolio\\safe.png",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\img\\portfolio\\safe.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\img\\portfolio\\submarine.png",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\img\\portfolio\\submarine.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\mail\\contact_me.js",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\mail\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\mail\\contact_me.php",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\mail\\contact_me.php"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\assets\\mail\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\anasa\\dist\\assets\\mail\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\css\\styles.css",
+      "PackagePath": "staticwebassets\\anasa\\dist\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\index.html",
+      "PackagePath": "staticwebassets\\anasa\\dist\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\dist\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\anasa\\dist\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\package-lock.json",
+      "PackagePath": "staticwebassets\\anasa\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\package.json",
+      "PackagePath": "staticwebassets\\anasa\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\build-assets.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\build-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\build-pug.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\build-pug.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\build-scripts.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\build-scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\build-scss.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\build-scss.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\clean.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\clean.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\render-assets.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\render-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\render-pug.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\render-pug.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\render-scripts.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\render-scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\render-scss.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\render-scss.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\sb-watch.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\sb-watch.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\start-debug.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\start-debug.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\scripts\\start.js",
+      "PackagePath": "staticwebassets\\anasa\\scripts\\start.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\img\\avataaars.svg",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\img\\avataaars.svg"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\img\\portfolio\\cabin.png",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\img\\portfolio\\cabin.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\img\\portfolio\\cake.png",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\img\\portfolio\\cake.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\img\\portfolio\\circus.png",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\img\\portfolio\\circus.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\img\\portfolio\\game.png",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\img\\portfolio\\game.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\img\\portfolio\\safe.png",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\img\\portfolio\\safe.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\img\\portfolio\\submarine.png",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\img\\portfolio\\submarine.png"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\mail\\contact_me.js",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\mail\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\mail\\contact_me.php",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\mail\\contact_me.php"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\assets\\mail\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\anasa\\src\\assets\\mail\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\anasa\\src\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\pug\\index.pug",
+      "PackagePath": "staticwebassets\\anasa\\src\\pug\\index.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\_divider.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\_divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\_masthead.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\_masthead.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\anasa\\src\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\anasa\\src\\scss\\styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\login\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\css\\style.css",
+      "PackagePath": "staticwebassets\\login\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\images\\aaa.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\aaa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\images\\cover4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\cover4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\index.html",
+      "PackagePath": "staticwebassets\\login\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\login\\w3layouts-License.txt"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\login\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\login\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\.browserslistrc",
+      "PackagePath": "staticwebassets\\start\\.browserslistrc"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\.gitignore",
+      "PackagePath": "staticwebassets\\start\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\.travis.yml",
+      "PackagePath": "staticwebassets\\start\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\LICENSE",
+      "PackagePath": "staticwebassets\\start"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\README.md",
+      "PackagePath": "staticwebassets\\start\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\401.html",
+      "PackagePath": "staticwebassets\\start\\dist\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\404.html",
+      "PackagePath": "staticwebassets\\start\\dist\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\500.html",
+      "PackagePath": "staticwebassets\\start\\dist\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\start\\dist\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\start\\dist\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\start\\dist\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\start\\dist\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\start\\dist\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\charts.html",
+      "PackagePath": "staticwebassets\\start\\dist\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\css\\styles.css",
+      "PackagePath": "staticwebassets\\start\\dist\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\index.html",
+      "PackagePath": "staticwebassets\\start\\dist\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\start\\dist\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\start\\dist\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\layout-static.html",
+      "PackagePath": "staticwebassets\\start\\dist\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\login.html",
+      "PackagePath": "staticwebassets\\start\\dist\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\password.html",
+      "PackagePath": "staticwebassets\\start\\dist\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\register.html",
+      "PackagePath": "staticwebassets\\start\\dist\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\dist\\tables.html",
+      "PackagePath": "staticwebassets\\start\\dist\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\index.html",
+      "PackagePath": "staticwebassets\\start\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\package-lock.json",
+      "PackagePath": "staticwebassets\\start\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\package.json",
+      "PackagePath": "staticwebassets\\start\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\build-assets.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\build-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\build-pug.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\build-pug.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\build-scripts.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\build-scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\build-scss.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\build-scss.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\clean.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\clean.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\render-assets.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\render-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\render-pug.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\render-pug.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\render-scripts.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\render-scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\render-scss.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\render-scss.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\sb-watch.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\sb-watch.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\start-debug.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\start-debug.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\scripts\\start.js",
+      "PackagePath": "staticwebassets\\start\\scripts\\start.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\start\\src\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\start\\src\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\start\\src\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\start\\src\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\start\\src\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\start\\src\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\authentication.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\authentication.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\dashboard.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\dashboard.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\error.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\error.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\includes\\footer.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\includes\\footer.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\includes\\head\\css.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\includes\\head\\css.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\includes\\head\\icons.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\includes\\head\\icons.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\includes\\head\\meta.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\includes\\head\\meta.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\includes\\head\\title.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\includes\\head\\title.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\includes\\navigation\\sidenav.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\includes\\navigation\\sidenav.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\includes\\navigation\\topnav.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\includes\\navigation\\topnav.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\layouts\\includes\\scripts.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\layouts\\includes\\scripts.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\401.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\401.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\404.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\404.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\500.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\500.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\charts.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\charts.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\includes\\datatable.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\includes\\datatable.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\includes\\page-header.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\includes\\page-header.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\index.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\index.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\layout-sidenav-light.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\layout-sidenav-light.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\layout-static.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\layout-static.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\login.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\login.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\password.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\password.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\register.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\register.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\pug\\pages\\tables.pug",
+      "PackagePath": "staticwebassets\\start\\src\\pug\\pages\\tables.pug"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\layout\\_authentication.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\layout\\_authentication.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\layout\\_dashboard-default.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\layout\\_dashboard-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\layout\\_dashboard-fixed.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\layout\\_dashboard-fixed.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\layout\\_error.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\layout\\_error.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\navigation\\_nav.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\navigation\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\navigation\\_topnav.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\navigation\\_topnav.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\navigation\\sidenav\\_sidenav-dark.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\navigation\\sidenav\\_sidenav-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\navigation\\sidenav\\_sidenav-light.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\navigation\\sidenav\\_sidenav-light.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\navigation\\sidenav\\_sidenav.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\navigation\\sidenav\\_sidenav.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\variables\\_navigation.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\variables\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\wwwroot\\start\\src\\scss\\variables\\_spacing.scss",
+      "PackagePath": "staticwebassets\\start\\src\\scss\\variables\\_spacing.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HastaneProjesi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HastaneProjesi.props",
+      "PackagePath": "build\\HastaneProjesi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HastaneProjesi.props",
+      "PackagePath": "buildMultiTargeting\\HastaneProjesi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HastaneProjesi.props",
+      "PackagePath": "buildTransitive\\HastaneProjesi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
