@@ -1,0 +1,361 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HastaneProjesi
+build_property.RootNamespace = HastaneProjesi
+build_property.ProjectDir = C:\Users\berat\OneDrive\Masaüstü\Web Programlama\HastaneProjesi\HastaneProjesi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\berat\OneDrive\Masaüstü\Web Programlama\HastaneProjesi\HastaneProjesi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Anasayfa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hc2F5ZmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Doktorlar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9ybGFyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Doktorlar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9ybGFyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Doktorlar/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9ybGFyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Doktorlar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9ybGFyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Doktorlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9ybGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaGecmisi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFHZWNtaXNpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaGecmisi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFHZWNtaXNpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaGecmisi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFHZWNtaXNpXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaGecmisi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFHZWNtaXNpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaGecmisi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFHZWNtaXNpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaKabuls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaKabuls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaKabuls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaKabuls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaKabuls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastalar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsYXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastalar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsYXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastalar/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsYXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastalar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsYXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastalar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastaneler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFuZWxlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastaneler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFuZWxlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastaneler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFuZWxlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastaneler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFuZWxlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Hastaneler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFuZWxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaSikayeti/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFTaWtheWV0aVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaSikayeti/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFTaWtheWV0aVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaSikayeti/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFTaWtheWV0aVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaSikayeti/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFTaWtheWV0aVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/HastaSikayeti/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFTaWtheWV0aVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Home1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZTFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Home1/KayitOl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZTFcS2F5aXRPbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Home/KayitOl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYXlpdE9sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Ilaclar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxhY2xhclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Ilaclar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxhY2xhclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Ilaclar/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxhY2xhclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Ilaclar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxhY2xhclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Ilaclar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxhY2xhclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Poliniklik/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saW5pa2xpa1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Poliniklik/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saW5pa2xpa1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Poliniklik/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saW5pa2xpa1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Poliniklik/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saW5pa2xpa1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Poliniklik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saW5pa2xpa1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/RecetegGoruntüle/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlZ0dvcnVudMO8bGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/RecetegGoruntüle/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlZ0dvcnVudMO8bGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/RecetegGoruntüle/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlZ0dvcnVudMO8bGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/RecetegGoruntüle/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlZ0dvcnVudMO8bGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/RecetegGoruntüle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlZ0dvcnVudMO8bGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Recete/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Recete/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Recete/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Recete/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Recete/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol2/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sMlxBZGRSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol2/AssignRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sMlxBc3NpZ25Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol2/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sMlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol2/UpdateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sMlxVcGRhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol2/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sMlxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEFkZFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol/AssignRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEFzc2lnblJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol/UpdateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXFVwZGF0ZVJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Rol/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXFVzZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Shared/Kullanici.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEt1bGxhbmljaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Shared/Sablon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNhYmxvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerGiris/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyR2lyaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerGiris/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyR2lyaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerGiris/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyR2lyaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerGiris/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyR2lyaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerGiris/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyR2lyaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerSonucu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyU29udWN1XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerSonucu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyU29udWN1XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerSonucu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyU29udWN1XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerSonucu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyU29udWN1XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/TahlillerSonucu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobGlsbGVyU29udWN1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/Yapilacaklar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWFwaWxhY2FrbGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
