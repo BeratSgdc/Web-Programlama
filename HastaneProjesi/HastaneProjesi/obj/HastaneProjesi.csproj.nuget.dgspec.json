@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj": {}
+    "C:\\Users\\berat\\OneDrive\\Masaüstü\\Web Programlama\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj": {
+    "C:\\Users\\berat\\OneDrive\\Masaüstü\\Web Programlama\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj",
+        "projectUniqueName": "C:\\Users\\berat\\OneDrive\\Masaüstü\\Web Programlama\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj",
         "projectName": "HastaneProjesi",
-        "projectPath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj",
+        "projectPath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\Web Programlama\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj",
         "packagesPath": "C:\\Users\\berat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\obj\\",
+        "outputPath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\Web Programlama\\HastaneProjesi\\HastaneProjesi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berat\\AppData\\Roaming\\NuGet\\NuGet.Config",

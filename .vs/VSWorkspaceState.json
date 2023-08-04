@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\HastaneProjesi",
-    "\\HastaneProjesi\\HastaneProjesi"
+    "\\HastaneProjesi\\HastaneProjesi\\obj",
+    "\\HastaneProjesi\\HastaneProjesi\\Properties",
+    "\\HastaneProjesi\\Models",
+    "\\HastaneProjesi\\obj",
+    "\\HastaneProjesi\\Views"
   ],
-  "SelectedNode": "\\HastaneProjesi\\HastaneProjesi.sln",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HastaneProjesi.API
+build_property.RootNamespace = HastaneProjesi.API
+build_property.ProjectDir = C:\Users\berat\OneDrive\Masaüstü\Web Programlama\HastaneProjesi\HastaneProjesi.API\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\berat\OneDrive\Masaüstü\Web Programlama\HastaneProjesi\HastaneProjesi.API
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi.API/Views/HastaKabul/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi.API/Views/HastaKabul/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi.API/Views/HastaKabul/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi.API/Views/HastaKabul/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi.API/Views/HastaKabul/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFLYWJ1bFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berat/OneDrive/Masaüstü/Web Programlama/HastaneProjesi/HastaneProjesi.API/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

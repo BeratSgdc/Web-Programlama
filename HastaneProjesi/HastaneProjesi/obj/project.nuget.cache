@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+UnDp/xMqDmrVfhpkUCOuK0svbNCalZwxT7L5V5cIYiHQBi45dcPawN7+eO758SX0ZRWQsvDaxG+lOGVV4lvQ==",
+  "dgSpecHash": "y9xcr2urrpQQnumucMo0gJctlo/YqbzvKNZ7Tpv2D3wa2vkdCMuoO3OVD91B6l2rmZp2FcZwv7WNM4EWAW9Q7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj",
+  "projectFilePath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\Web Programlama\\HastaneProjesi\\HastaneProjesi\\HastaneProjesi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berat\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\berat\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
