@@ -145,14 +145,14 @@ namespace HastaneProjesi.Migrations
                             ConcurrencyStamp = "2b47a270-2410-42b1-ad1b-b564966cd6b0",
                             EmailConfirmed = false,
                             LockoutEnabled = true,
-                            Name = "Muhammet",
-                            NormalizedUserName = "B191210304@SAKARYA.EDU.TR",
+                            Name = "BeratUser",
+                            NormalizedUserName = "G191210078@SAKARYA.EDU.TR",
                             PasswordHash = "AQAAAAEAACcQAAAAEEhgfwI70dzvoYp2RTjqqfw60wbI6kbGq9rQ/uiZPc6RRFwz9uUQmrBHcKjeuwpz4A==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "RNMOTMWYZL6PRE362MLDKMO2QTCRNLIB",
-                            SurName = "Sağlam",
+                            SurName = "Sağdıç",
                             TwoFactorEnabled = false,
-                            UserName = "b191210304@sakarya.edu.tr"
+                            UserName = "g191210078@sakarya.edu.tr"
                         },
                         new
                         {
@@ -161,14 +161,14 @@ namespace HastaneProjesi.Migrations
                             ConcurrencyStamp = "d8e84a25-0ff2-425c-8cc0-c6ed76b60d21",
                             EmailConfirmed = false,
                             LockoutEnabled = true,
-                            Name = "Numan",
-                            NormalizedUserName = "B191210307@SAKARYA.EDU.TR",
+                            Name = "Berat",
+                            NormalizedUserName = "G191210078@SAKARYA.EDU.TR",
                             PasswordHash = "AQAAAAEAACcQAAAAEEHoQ0ViyBmp3yPvMsGBVSrLUiubppv3DnUDJHHp7RnyYwULnf9W5dEiACxRfQVcFA==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "ST4AAWGZ5UA2RSQGVBI6BHW5JO7JZQYW",
-                            SurName = "Güngör",
+                            SurName = "Sağdıç",
                             TwoFactorEnabled = false,
-                            UserName = "b191210307@sakarya.edu.tr"
+                            UserName = "g191210078@sakarya.edu.tr"
                         });
                 });
 
